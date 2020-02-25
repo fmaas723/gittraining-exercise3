@@ -5,3 +5,6 @@ hello how are you
 Exercise3 help-feature branch
 
 Exercise3 master branch overwriting instructions
+
+Exercise3 discussion-feature branch.
+
