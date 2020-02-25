@@ -1,2 +1,4 @@
 Exercise 3
 Master Text Class
+
+More Changes to Master Text Class
