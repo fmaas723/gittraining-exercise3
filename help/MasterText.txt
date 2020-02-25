@@ -2,3 +2,5 @@ Exercise 3
 Master Text Class
 
 More Changes to Master Text Class
+
+Some more changes to master text class on master after account feature updates
