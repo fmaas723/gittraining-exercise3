@@ -1,3 +1,5 @@
 This help file is no help at all - you are on your own.
 
 hello how are you
+
+Exercise3 help-feature branch
